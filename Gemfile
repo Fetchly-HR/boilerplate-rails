@@ -45,7 +45,7 @@ gem 'webpacker', '~> 5.4'
 
 group :development do
   gem 'letter_opener', '~> 1.8'
-  gem 'listen', '~> 3.7'
+  gem 'listen', '~> 3.8'
   gem 'rack-mini-profiler'
   gem 'rubocop', '~> 1.27', require: false
   gem 'rubocop-performance', '~> 1.13', require: false
